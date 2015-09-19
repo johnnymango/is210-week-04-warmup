@@ -1,4 +1,4 @@
-#!/usr/in/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """This module provides a function that knows what you mean"""
 
