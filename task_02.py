@@ -4,3 +4,5 @@
 
 
 import hamlet
+
+POSITIONAL = hamlet.crazy_math(4, 100000, 9, 98)
